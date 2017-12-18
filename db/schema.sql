@@ -3,6 +3,7 @@
 CREATE DATABASE burgers_db;
 USE burgers_db;
 
+#Burgers table layout
 CREATE TABLE burgers
 (
 	id int(20) NOT NULL AUTO_INCREMENT,
