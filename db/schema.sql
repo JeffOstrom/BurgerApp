@@ -5,8 +5,9 @@ USE burgers_db;
 
 CREATE TABLE burgers
 (
-	id int NOT NULL AUTO_INCREMENT,
-	burger_name varchar(255) NOT NULL,
+	id int(20) NOT NULL AUTO_INCREMENT,
+	burger_name varchar(200) NOT NULL,
 	devoured BOOLEAN DEFAULT false,
-	PRIMARY KEY (id)
+	date_added TIMESTAMP,
+ PRIMARY KEY (id)
 );
