@@ -31,7 +31,7 @@ router.put("/:id", function(req, res) {
 
   console.log("condition", condition);
 
-  cat.update({
+  burger.update({
     sleepy: req.body.sleepy
   }, condition, function() {
     res.redirect("/");
