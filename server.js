@@ -1,4 +1,4 @@
-//Requirements
+//Requirements server.js- Boilerplate common layout
 var express = require("express");
 var bodyParser = require("body-parser");
 var methodOverride = require("method-override");
