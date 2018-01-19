@@ -4,6 +4,9 @@ body {
   background-color: #fc6;
 }
 
+#burg{
+  width: 50px;
+}
 #top-bar {
   margin-top: 28px;
 }
