@@ -1,9 +1,9 @@
 Synopsis
 -------------------------------------------------------------------------------------
 
-- BurgerApp! Lets user customize burgers they would like prepare and devour!
+- BurgerApp! Lets users customize burgers they would like prepare and devour!
 
-- Enter burger information and click submit. Once clicked the custom burger will display on the left panel waiting area.
+- Enter burger information and click "submit". Once clicked the custom burger will display on the left panel waiting area.
 
 - Hungry!? Go ahead and proceed with the next step and click devour it! This will then shift the burger to the right panel once complete.
 
