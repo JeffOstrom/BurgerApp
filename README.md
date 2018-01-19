@@ -1,18 +1,15 @@
 Synopsis
 -------------------------------------------------------------------------------------
 
-- Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they 
-  like to eat.
+- BurgerApp! Lets user customize burgers they would like prepare and devour!
 
-- User will submit the name of a burger, the app will display the burger on the left 
-  waiting to be devoured.
+- Enter burger information and click submit. Once clicked the custom burger will display on the left panel waiting area.
 
-- Each burger in the waiting area also has a Devour it! button. When clicked by the user
-  it will move to the right side of the page. 
+- Hungry!? Go ahead and proceed with the next step and click devour it! This will then shift the burger to the right panel once complete.
 
-- The app will store every burger in the database, whether devoured or not.  
+- The Burger app will store every burger in the database with MySQL WorkBench, whether devoured or not.  
 
-- Check it out! https://github.com/JeffOstrom/burger
+- Hope you're hungry! Go ahead and check it out! https://cryptic-plains-92614.herokuapp.com/burgers
 
 Built With
 -------------------------------------------------------------------------------------
@@ -26,6 +23,8 @@ Built With
 - Handlebars
 
 - ORM
+
+- Heroku
 
 Resources
 -------------------------------------------------------------------------------------
@@ -49,4 +48,4 @@ License
 
 Acknowledgments
 -------------------------------------------------------------------------------------
-- None
+- https://logomakr.com/
